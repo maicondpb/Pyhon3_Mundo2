@@ -1,4 +1,4 @@
-# Pyhon3_Mundo2
+# Pyhon3_Mundo2 [40 horas]
 
 Mundo 2 do Curso de Python3 através da Plataforma Curso em Vídeo que é apresentado pelo grande professor Guanabara! 
 
